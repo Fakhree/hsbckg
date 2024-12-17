@@ -4,5 +4,3 @@ pinecone-client
 tiktoken
 spacy
 tqdm
-time
-os
